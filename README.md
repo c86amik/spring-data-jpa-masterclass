@@ -50,7 +50,7 @@
 }</code>
 * Body for the <strong>PUT</strong> method
 <code>{
-	“id” : ${mySQL_Id},
+	"userId" : ${mySQL_Id},
 	"firstName" : ${firstName},
 	"middleName" : ${middleName},
 	"lastName" : ${lastName},
