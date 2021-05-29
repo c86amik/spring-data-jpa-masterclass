@@ -15,7 +15,7 @@
 ### Steps to clone and run the application
 * Install MySQL. Complete installation steps of [MySQL Workbench](https://dev.mysql.com/downloads/mysql/) are provided
 * If you face any problem while installing MySQL Workbench, then you can install SQLYog as mentioned in the Software Required steps
-* Open Git Bash in your machine
+* Open Git Bash or even you can open Command Prompt (if you are using Windows) or Terminal (if you are using MAC) in your machine
 * Clone the application from github.com as   
 <code>git clone https://github.com/c86amik/spring-data-jpa-masterclass.git</code>
 * Open either <strong>STS</strong> or <strong>Eclipse</strong> and import the application as <strong>Maven</strong> project
