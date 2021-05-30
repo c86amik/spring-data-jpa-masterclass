@@ -19,7 +19,7 @@ import com.springcavaj.springjpa.model.User;
 @Repository
 public interface SpringDataJpaRestRepository extends JpaRepository<User, Long> {
 	
-public List<User> findByFirstName(String firstName);
+	public List<User> findByFirstName(String firstName);
 	
 	public List<User> findByLastName(String lastName);
 	

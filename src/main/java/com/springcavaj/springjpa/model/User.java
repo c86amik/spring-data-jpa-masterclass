@@ -3,6 +3,8 @@
  */
 package com.springcavaj.springjpa.model;
 
+import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.EntityListeners;
@@ -20,7 +22,9 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 @Entity
 @Table(name="user")
 @EntityListeners(AuditingEntityListener.class)
-public class User {
+public class User implements Serializable {
+	
+	private static final long serialVersionUID = 7707576683418425977L;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)

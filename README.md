@@ -11,6 +11,19 @@
 * [SQLYog](https://sqlyog.en.softonic.com/) - SQLYog. You can use this as replacement of MySQL
 * [Postman](https://www.postman.com/downloads/)
 
+### Steps to execute the DB Scripts
+Run the below scripts in any of the software either in MySQL Workbench or in SQLYog
+
+* create_database.sql - It will create the database named as <strong>spring</strong>
+* drop_database.sql - It will delete the database <strong>spring</strong> 
+
+But don't run it before the create_database.sql, otherwise it will throw the error stating `No database is present with this name`
+
+* create_table.sql - It will create the table <strong>User</strong> under <strong>spring</strong> schema
+
+But though it is not required to execute, because when you run the application as Spring Boot and try to call the <strong>POST</strong> method it will automatically create the table <strong>User</strong> under <strong>spring</strong> database
+
+* drop_table.sql - To delete the <strong>User</strong> table
 
 ### Steps to clone and run the application
 * Install MySQL. Complete installation steps of [MySQL Workbench](https://dev.mysql.com/downloads/mysql/) are provided
