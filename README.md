@@ -41,7 +41,7 @@ But though it is not required to execute, because when you run the application a
 <ol>
 <li><strong>Get All Users</strong> - localhost:7110/allUsers</li>
 <li><strong>Save an User</strong> - localhost:7110/saveUser</li>
-<li><strong>Update an User</strong> - localhost:7110/updateUser/{id}. Here <strong>{id}</strong> is the id of the record stored in MongoDB</li>
+<li><strong>Update an User</strong> - localhost:7110/updateUser/{id}. Here <strong>{id}</strong> is the id of the record stored in MySQL DB</li>
 <li><strong>Delete an User</strong> - localhost:7110/deleteUser/{id}</li>
 <li><strong>Get user by firstName</strong> - localhost:7110/getUserByFirstName/{firstName}</li>
 <li><strong>Get user by lastName</strong> - localhost:7110/getUserByLastName/{lastName}</li>
