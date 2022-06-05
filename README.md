@@ -3,7 +3,7 @@
 ## A good understanding of the usage of spring-data with REST Service and using MySQL as local Database
 
 ### Software Required
-* [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
+* [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
 * [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers)
 * [Apache Maven](https://maven.apache.org/download.cgi)
 * [Git Bash](https://gramfile.com/git-bash-download/)
@@ -26,7 +26,7 @@ But though it is not required to execute, because when you run the application a
 * drop_table.sql - To delete the <strong>User</strong> table
 
 ### Steps to clone and run the application
-* Install MySQL. Complete installation steps of [MySQL Workbench](https://dev.mysql.com/downloads/mysql/) are provided
+* Install MySQL. Complete installation steps of [MySQL Workbench](https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10/) are provided
 * If you face any problem while installing MySQL Workbench, then you can install SQLYog as mentioned in the Software Required steps
 * Open Git Bash or even you can open Command Prompt (if you are using Windows) or Terminal (if you are using MAC) in your machine
 * Clone the application from github.com as   
