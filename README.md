@@ -4,7 +4,7 @@
 
 ### Software Required
 * [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
-* [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers)
+* [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/)
 * [Apache Maven](https://maven.apache.org/download.cgi)
 * [Git Bash](https://gramfile.com/git-bash-download/)
 * [MySQL](https://dev.mysql.com/downloads/mysql/) - Download the Community Edition. If it is a problem then you can download another one as provided below
