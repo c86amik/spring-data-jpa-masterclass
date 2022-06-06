@@ -54,22 +54,22 @@ But though it is not required to execute, because when you run the application a
 #### Dummy JSON object
 * Body for the <strong>POST</strong> Method   
 <code>{
-	"firstName" : ${firstName},
-	"middleName" : ${middleName},
-	"lastName" : ${lastName},
-	"mobileNo" : ${mobileNo},
-	"email" : ${email},
-	"panNo" : ${panNo}
+	"firstName" : "First Name",
+	"middleName" : "",
+	"lastName" : "Last Name",
+	"mobileNo" : "1234567890",
+	"email" : "test@email.com",
+	"panNo" : "ABCDE1234F"
 }</code>
 * Body for the <strong>PUT</strong> method
 <code>{
-	"userId" : ${mySQL_Id},
-	"firstName" : ${firstName},
-	"middleName" : ${middleName},
-	"lastName" : ${lastName},
-	"mobileNo" : ${mobileNo},
-	"email" : ${email},
-	"panNo" : ${panNo}
+	"userId" : "1",
+	"firstName" : "First Name",
+	"middleName" : "",
+	"lastName" : "Last Name",
+	"mobileNo" : "1234567890",
+	"email" : "test@email.com",
+	"panNo" : "ABCDE1234F"
 }</code>
 
 	
