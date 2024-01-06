@@ -8,7 +8,7 @@
 * [Apache Maven](https://maven.apache.org/download.cgi)
 * [Git Bash](https://git-scm.com/downloads)
 * [MySQL](https://dev.mysql.com/downloads/mysql/) - Download the Community Edition. If it is a problem then you can download another one as provided below
-* [SQLYog](https://sqlyog.en.softonic.com/) - SQLYog. You can use this as replacement of MySQL
+* [DBeaver](https://dbeaver.io/download/) - DBeaver. A MySQL Client
 * [Postman](https://www.postman.com/downloads/)
 
 ### Steps to execute the DB Scripts
