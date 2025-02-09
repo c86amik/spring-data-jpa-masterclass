@@ -28,6 +28,9 @@ But though it is not required to execute, because when you run the application a
 ### Steps to clone and run the application
 * Install MySQL. Complete installation steps of [MySQL Workbench](https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10/) are provided
 * If you face any problem while installing MySQL Workbench, then you can install SQLYog as mentioned in the Software Required steps
+* After installing the MySQL search in the Start command with MySQL and you will found the MySQL Command Line Client.
+* Hit the Enter button it will open a Command Prompt and opt for password.
+* Provide the password MySQL Server will get connected.
 * Open Git Bash or even you can open Command Prompt (if you are using Windows) or Terminal (if you are using MAC) in your machine
 * Clone the application from github.com as   
 <code>git clone https://github.com/c86amik/spring-data-jpa-masterclass.git</code>
